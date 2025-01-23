@@ -1,19 +1,24 @@
-**# REAL-TIME-CHAT-APPLICATION**
+# frontend
 
-**COMPANY**: CODTECH IT SOLUTIONS
+## Project setup
+```
+npm install
+```
 
-**NAME**: MUGILAN B
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-**INTERN**: CT6WMBM
+### Compiles and minifies for production
+```
+npm run build
+```
 
-**DOMAI**: Frontend Web Development
+### Lints and fixes files
+```
+npm run lint
+```
 
-**BATCH DURATION**: JANUARY 15TH, 2025 to MARCH 1ST, 2025
-
-**MENTOR NAME** : NEELA SANTHOSH
-
-**DESCRIPTION**: The Interactive Quiz Application is a user-friendly, dynamic quiz platform built using HTML, CSS, and JavaScript. It allows users to answer a series of 10 multiple-choice questions, providing instant feedback on each answer. The app includes engaging features like a selection effect, where the chosen answer is visually highlighted, and answer validation upon submission. Correct answers are marked in green, while incorrect ones are highlighted in red, enhancing the user experience. The quiz tracks the user's score and displays the final result at the end. A restart option is included to retake the quiz, ensuring seamless usability. This polished, responsive app is perfect for testing knowledge interactively!
-
-**#OUTPUIT OF THE TASK**
-
-![Image](https://github.com/user-attachments/assets/64ff8349-dac1-49a8-b3b5-9e60bfbc93d1)
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
