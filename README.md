@@ -16,4 +16,4 @@
 
 **#OUTPUIT OF THE TASK**
 
-![Image](https://github.com/user-attachments/assets/ed918dce-e6b3-4d30-8fd8-1f87054af27c)
+![Image](https://github.com/user-attachments/assets/64ff8349-dac1-49a8-b3b5-9e60bfbc93d1)
